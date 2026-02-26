@@ -25048,7 +25048,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 1799,
-          "harga": 1555,
+          "harga": 1539,
           "stock": 10000,
           "rise": [
             "naik",
@@ -25102,7 +25102,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 156,
-          "harga": 139,
+          "harga": 135,
           "stock": 10000,
           "rise": [
             "naik",
@@ -25274,7 +25274,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 309710,
-          "harga": 364382,
+          "harga": 362560,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -25292,7 +25292,7 @@
         "BBCA": {
           "name": "BBCA",
           "hargaBefore": 148844,
-          "harga": 151094,
+          "harga": 148072,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -25365,7 +25365,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 24422,
-          "harga": 24866,
+          "harga": 24244,
           "stock": 300000000,
           "rise": [
             "naik",
