@@ -4449,7 +4449,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 1830,
-          "harga": 1682,
+          "harga": 1699,
           "stock": 10000,
           "rise": [
             "naik",
@@ -4485,7 +4485,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 3950,
-          "harga": 3781,
+          "harga": 3838,
           "stock": 10000,
           "rise": [
             "naik",
@@ -4675,7 +4675,7 @@
         "BBCA": {
           "name": "BBCA",
           "hargaBefore": 122877,
-          "harga": 129092,
+          "harga": 130383,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -4748,7 +4748,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 7480,
-          "harga": 7895,
+          "harga": 8132,
           "stock": 300000000,
           "rise": [
             "naik",
