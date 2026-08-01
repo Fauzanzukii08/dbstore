@@ -5791,7 +5791,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 3950,
-          "harga": 3679,
+          "harga": 3789,
           "stock": 10000,
           "rise": [
             "naik",
@@ -5963,7 +5963,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 112228,
-          "harga": 108918,
+          "harga": 107829,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -6018,7 +6018,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 64024,
-          "harga": 52231,
+          "harga": 50664,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -6037,7 +6037,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 35336,
-          "harga": 32786,
+          "harga": 33770,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -6054,7 +6054,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 7480,
-          "harga": 8307,
+          "harga": 8390,
           "stock": 300000000,
           "rise": [
             "naik",
