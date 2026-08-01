@@ -5599,7 +5599,7 @@
         "dogecoin": {
           "name": "Dogecoin",
           "hargaBefore": 79,
-          "harga": 77,
+          "harga": 78,
           "stock": 10000,
           "rise": [
             "naik",
@@ -5789,7 +5789,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 107829,
-          "harga": 102451,
+          "harga": 100402,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -5844,7 +5844,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 50411,
-          "harga": 51666,
+          "harga": 52441,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -5863,7 +5863,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 34445,
-          "harga": 36174,
+          "harga": 35812,
           "stock": 200000000,
           "rise": [
             "naik",
