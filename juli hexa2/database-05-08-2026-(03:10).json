@@ -7977,7 +7977,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 5514,
-          "harga": 5966,
+          "harga": 5996,
           "stock": 10000,
           "rise": [
             "naik",
@@ -8203,7 +8203,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 75213,
-          "harga": 67935,
+          "harga": 68275,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -8240,7 +8240,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 28688,
-          "harga": 29675,
+          "harga": 29081,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -8277,7 +8277,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 39715,
-          "harga": 46484,
+          "harga": 46716,
           "stock": 200000000,
           "rise": [
             "naik",
