@@ -8121,7 +8121,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 5598,
-          "harga": 5570,
+          "harga": 5514,
           "stock": 10000,
           "rise": [
             "naik",
@@ -8175,7 +8175,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 2947,
-          "harga": 2682,
+          "harga": 2642,
           "stock": 10000,
           "rise": [
             "naik",
@@ -8384,7 +8384,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 25501,
-          "harga": 28271,
+          "harga": 27988,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -8421,7 +8421,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 35097,
-          "harga": 41567,
+          "harga": 40943,
           "stock": 200000000,
           "rise": [
             "naik",
