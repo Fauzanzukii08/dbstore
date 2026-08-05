@@ -8200,7 +8200,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 2396,
-          "harga": 2370,
+          "harga": 2323,
           "stock": 10000,
           "rise": [
             "naik",
@@ -8254,7 +8254,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 3009,
-          "harga": 3177,
+          "harga": 3209,
           "stock": 10000,
           "rise": [
             "naik",
@@ -8426,7 +8426,7 @@
         "BBCA": {
           "name": "BBCA",
           "hargaBefore": 97132,
-          "harga": 94692,
+          "harga": 93745,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -8463,7 +8463,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 52737,
-          "harga": 54842,
+          "harga": 54294,
           "stock": 150000000,
           "rise": [
             "naik",
