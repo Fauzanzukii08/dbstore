@@ -8006,7 +8006,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 2057,
-          "harga": 2268,
+          "harga": 2245,
           "stock": 10000,
           "rise": [
             "naik",
@@ -8251,7 +8251,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 28688,
-          "harga": 29903,
+          "harga": 29454,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -8305,7 +8305,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 9550,
-          "harga": 8563,
+          "harga": 8691,
           "stock": 300000000,
           "rise": [
             "naik",
