@@ -9252,7 +9252,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 2822,
-          "harga": 2611,
+          "harga": 2650,
           "stock": 10000,
           "rise": [
             "naik",
@@ -9443,7 +9443,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 37683,
-          "harga": 39528,
+          "harga": 40516,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -9461,7 +9461,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 63311,
-          "harga": 63351,
+          "harga": 63034,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -9497,7 +9497,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 6203,
-          "harga": 5993,
+          "harga": 5933,
           "stock": 300000000,
           "rise": [
             "naik",
