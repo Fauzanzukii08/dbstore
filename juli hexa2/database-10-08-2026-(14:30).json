@@ -10437,7 +10437,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 3059,
-          "harga": 3297,
+          "harga": 3198,
           "stock": 10000,
           "rise": [
             "naik",
@@ -10455,7 +10455,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 2124,
-          "harga": 2266,
+          "harga": 2300,
           "stock": 10000,
           "rise": [
             "naik",
@@ -10683,7 +10683,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 23749,
-          "harga": 20417,
+          "harga": 20111,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -10700,7 +10700,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 6647,
-          "harga": 7697,
+          "harga": 7582,
           "stock": 300000000,
           "rise": [
             "naik",
