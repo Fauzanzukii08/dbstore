@@ -10633,7 +10633,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 2963,
-          "harga": 3065,
+          "harga": 2973,
           "stock": 10000,
           "rise": [
             "naik",
@@ -10841,7 +10841,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 64624,
-          "harga": 48893,
+          "harga": 48404,
           "stock": 100000000,
           "rise": [
             "naik",
