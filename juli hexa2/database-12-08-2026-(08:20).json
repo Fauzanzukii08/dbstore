@@ -10914,7 +10914,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 6176,
-          "harga": 5745,
+          "harga": 5659,
           "stock": 10000,
           "rise": [
             "naik",
@@ -10932,7 +10932,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 2846,
-          "harga": 2591,
+          "harga": 2539,
           "stock": 10000,
           "rise": [
             "naik",
@@ -10968,7 +10968,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 2745,
-          "harga": 2707,
+          "harga": 2693,
           "stock": 10000,
           "rise": [
             "naik",
@@ -10986,7 +10986,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 2351,
-          "harga": 2154,
+          "harga": 2165,
           "stock": 10000,
           "rise": [
             "naik",
@@ -11140,7 +11140,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 50868,
-          "harga": 53021,
+          "harga": 51430,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -11231,7 +11231,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 11180,
-          "harga": 15051,
+          "harga": 14675,
           "stock": 300000000,
           "rise": [
             "naik",
