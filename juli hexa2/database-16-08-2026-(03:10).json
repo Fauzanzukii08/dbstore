@@ -26595,7 +26595,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 7479,
-          "harga": 8129,
+          "harga": 8251,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26613,7 +26613,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 2246,
-          "harga": 2135,
+          "harga": 2178,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26649,7 +26649,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 2784,
-          "harga": 2768,
+          "harga": 2810,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26667,7 +26667,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 1231,
-          "harga": 1329,
+          "harga": 1369,
           "stock": 10000,
           "rise": [
             "naik",
