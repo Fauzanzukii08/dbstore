@@ -26688,7 +26688,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 6856,
-          "harga": 7368,
+          "harga": 7479,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26706,7 +26706,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 2698,
-          "harga": 2191,
+          "harga": 2202,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26914,7 +26914,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 43570,
-          "harga": 51491,
+          "harga": 52006,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -27005,7 +27005,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 21149,
-          "harga": 19199,
+          "harga": 18911,
           "stock": 300000000,
           "rise": [
             "naik",
