@@ -26821,7 +26821,7 @@
     "absen": {},
     "logs": {},
     "ultah": {},
-    "gempaDateTime": "2026-08-17T05:34:57+00:00",
+    "gempaDateTime": "2026-08-17T07:20:20+00:00",
     "otakuNow": "",
     "sellRumah": {},
     "stickerBlacklist": {},
@@ -26903,7 +26903,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 1191,
-          "harga": 1050,
+          "harga": 1029,
           "stock": 10000,
           "rise": [
             "naik",
@@ -27057,7 +27057,7 @@
         "AMMN": {
           "name": "AMMN",
           "hargaBefore": 38490,
-          "harga": 44184,
+          "harga": 44405,
           "stock": 100000000,
           "rise": [
             "naik",
@@ -27112,7 +27112,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 51285,
-          "harga": 53344,
+          "harga": 52811,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -27148,7 +27148,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 19709,
-          "harga": 20949,
+          "harga": 20425,
           "stock": 300000000,
           "rise": [
             "naik",
