@@ -26666,7 +26666,7 @@
         "dogecoin": {
           "name": "Dogecoin",
           "hargaBefore": 93,
-          "harga": 96,
+          "harga": 95,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26684,7 +26684,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 3314,
-          "harga": 3309,
+          "harga": 3375,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26702,7 +26702,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 1191,
-          "harga": 1113,
+          "harga": 1119,
           "stock": 10000,
           "rise": [
             "naik",
@@ -26874,7 +26874,7 @@
         "BBCA": {
           "name": "BBCA",
           "hargaBefore": 60110,
-          "harga": 55576,
+          "harga": 53909,
           "stock": 150000000,
           "rise": [
             "naik",
