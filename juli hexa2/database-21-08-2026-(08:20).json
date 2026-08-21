@@ -28008,7 +28008,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 8205,
-          "harga": 8231,
+          "harga": 8108,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28080,7 +28080,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 917,
-          "harga": 981,
+          "harga": 976,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28271,7 +28271,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 20975,
-          "harga": 21548,
+          "harga": 22194,
           "stock": 200000000,
           "rise": [
             "naik",
