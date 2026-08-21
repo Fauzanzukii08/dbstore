@@ -28042,7 +28042,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 8205,
-          "harga": 7854,
+          "harga": 7618,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28096,7 +28096,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 4306,
-          "harga": 4103,
+          "harga": 4144,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28323,7 +28323,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 44411,
-          "harga": 46948,
+          "harga": 46009,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -28342,7 +28342,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 15037,
-          "harga": 13793,
+          "harga": 14069,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -28359,7 +28359,7 @@
         "MSTI": {
           "name": "MSTI",
           "hargaBefore": 16585,
-          "harga": 19103,
+          "harga": 19485,
           "stock": 300000000,
           "rise": [
             "naik",
