@@ -28563,7 +28563,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 6747,
-          "harga": 6775,
+          "harga": 6877,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28599,7 +28599,7 @@
         "dogecoin": {
           "name": "Dogecoin",
           "hargaBefore": 113,
-          "harga": 113,
+          "harga": 110,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28635,7 +28635,7 @@
         "solana": {
           "name": "Solana",
           "hargaBefore": 1012,
-          "harga": 1022,
+          "harga": 1007,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28826,7 +28826,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 21560,
-          "harga": 20179,
+          "harga": 19574,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -28863,7 +28863,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 15790,
-          "harga": 17000,
+          "harga": 17085,
           "stock": 200000000,
           "rise": [
             "naik",
