@@ -28553,7 +28553,7 @@
     "absen": {},
     "logs": {},
     "ultah": {},
-    "gempaDateTime": "2026-08-22T19:54:08+00:00",
+    "gempaDateTime": "2026-08-23T01:04:09+00:00",
     "otakuNow": "",
     "sellRumah": {},
     "stickerBlacklist": {},
@@ -28563,7 +28563,7 @@
         "bitcoin": {
           "name": "Bitcoin",
           "hargaBefore": 6747,
-          "harga": 7548,
+          "harga": 7510,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28581,7 +28581,7 @@
         "polygon": {
           "name": "Polygon",
           "hargaBefore": 1238,
-          "harga": 1160,
+          "harga": 1195,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28617,7 +28617,7 @@
         "etherium": {
           "name": "Etherium",
           "hargaBefore": 3501,
-          "harga": 3325,
+          "harga": 3342,
           "stock": 10000,
           "rise": [
             "naik",
@@ -28826,7 +28826,7 @@
         "BBNI": {
           "name": "BBNI",
           "hargaBefore": 21560,
-          "harga": 18581,
+          "harga": 19046,
           "stock": 200000000,
           "rise": [
             "naik",
@@ -28844,7 +28844,7 @@
         "CUAN": {
           "name": "CUAN",
           "hargaBefore": 44452,
-          "harga": 48551,
+          "harga": 49522,
           "stock": 150000000,
           "rise": [
             "naik",
@@ -28863,7 +28863,7 @@
         "BBRI": {
           "name": "BBRI",
           "hargaBefore": 15790,
-          "harga": 18084,
+          "harga": 17632,
           "stock": 200000000,
           "rise": [
             "naik",
